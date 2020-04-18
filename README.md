@@ -1,8 +1,10 @@
-# covid19trackerlk
+# COVID19TrackerLK
 
 > COVID-19 Realtime Statistics in Sri Lanka
 
-Built for personal/family usage
+- Built for personal/family usage
+- Made public cause why-not
+
 
 ## Build Setup
 
